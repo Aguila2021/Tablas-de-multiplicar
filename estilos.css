@@ -1,0 +1,23 @@
+body {
+    background: url(../tablas2/fondo.jpg);
+    color: white;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 280vh;
+    font-size: 20px;
+    font-family: 'Acme', sans-serif;
+    text-shadow: 5px 5px 2px black;
+}
+
+label {
+    padding: 15px;
+    margin: 25px;
+}
+
+.boton {
+    background: blueviolet;
+    color: white;
+    font-family: 'Acme', sans-serif;
+    padding: 15px 10px;
+    font-size: 15px;
+}
